@@ -1,2 +1,2 @@
-# kafaka
+# kafka
 记录Kafka学习笔记
